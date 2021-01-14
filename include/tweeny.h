@@ -1,3 +1,5 @@
+#pragma GCC system_header
+
 /*
  This file is part of the Tweeny library.
 
